@@ -60,20 +60,6 @@ Komut satırı araçları ve yardımcı programlar.
 <img src="https://img.shields.io/github/last-commit/ilter2014/CmdTools?style=for-the-badge&logo=github&logoColor=white&label=UPDATED&color=000000" alt="Last commit"/>
 </a>
 
-### <img src="https://img.shields.io/badge/03-BUBBLE_SHOOTER-000000?style=flat-square&logo=html5&logoColor=white" alt="Bubble Shooter"/> [Bubble-Shooter](https://github.com/ilter2014/Bubble-Shooter)
-
-İlk HTML oyun repom.
-
-<a href="https://github.com/ilter2014/Bubble-Shooter">
-<img src="https://img.shields.io/github/stars/ilter2014/Bubble-Shooter?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=000000" alt="Stars"/>
-</a>
-<a href="https://github.com/ilter2014/Bubble-Shooter/forks">
-<img src="https://img.shields.io/github/forks/ilter2014/Bubble-Shooter?style=for-the-badge&logo=git&logoColor=white&label=FORKS&color=000000" alt="Forks"/>
-</a>
-<a href="https://img.shields.io/github/languages/top/ilter2014/Bubble-Shooter?style=flat-square">
-<img src="https://img.shields.io/github/languages/top/ilter2014/Bubble-Shooter?style=for-the-badge&label=LANGUAGE&color=000000" alt="Top language"/>
-</a>
-
 ### <img src="https://img.shields.io/badge/04-HEADPHONE_ANIMATION-000000?style=flat-square&logo=css3&logoColor=white" alt="Headphone Animation"/> [headphone-animation](https://github.com/ilter2014/headphone-animation)
 
 Fork edilmiş animasyon projesi.
