@@ -90,11 +90,13 @@ Instagram'dan ilham alan Flutter klon projesi. Fork edilmiş repodur.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,py,java,dart,react,flutter,supabase,nodejs,npm,git,github,vscode,vercel,windows,linux&theme=dark&perline=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,py,java,dart,react,flutter,supabase,nodejs,npm,git,github,vscode,vercel,windows,linux&theme=light&perline=12" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,dart,react,flutter,supabase,nodejs,npm,git,github,vscode,vercel,windows,linux&theme=dark&perline=12" alt="İlter's Tech Stack" />
-</picture>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,dart&theme=dark&perline=7" alt="Programming languages"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,flutter,nodejs,supabase,postgres&theme=dark&perline=5" alt="Frameworks and backend"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,vercel&theme=dark&perline=6" alt="Development tools"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme=dark&perline=4" alt="Operating systems"/>
 
 </div>
 
