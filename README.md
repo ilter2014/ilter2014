@@ -2,7 +2,7 @@
 
 <a href="README.md"><img src="https://img.shields.io/badge/ENGLISH-222222?style=for-the-badge&logo=github&logoColor=white" alt="ENGLISH"/></a> <a href="README_TR.md"><img src="https://img.shields.io/badge/T%C3%9CRK%C3%87E-222222?style=for-the-badge&logo=github&logoColor=white" alt="TÜRKÇE"/></a>
 
-<img src="https://img.shields.io/badge/ILTER-DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=white" alt="ILTER-DEVELOPER"/>
+<img src="https://img.shields.io/badge/ILTER--DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=white" alt="ILTER-DEVELOPER"/>
 
 # Ilter | Developer
 
@@ -16,34 +16,34 @@ I’m a developer who enjoys turning ideas into software. I like exploring techn
 
 ---
 
-## <img src="https://img.shields.io/badge/01-ABOUT_ME-000000?style=for-the-badge&logo=readme&logoColor=white" alt="01-ABOUT_ME"/>
+## <img src="https://img.shields.io/badge/01--ABOUT_ME-000000?style=for-the-badge&logo=readme&logoColor=white" alt="01-ABOUT_ME"/>
 
 - <img src="https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=white" alt="DEVELOPER"/> I enjoy software development and learning by building.
 - <img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=codefactor&logoColor=white" alt="PROJECTS"/> I work on projects across desktop, web, mobile, and server environments.
 - <img src="https://img.shields.io/badge/OPEN_SOURCE-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OPEN_SOURCE"/> I explore open-source software and contribute to my own tools.
 - <img src="https://img.shields.io/badge/DATADEV-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DATADEV"/> I build projects under the DataDev name.
 
-## <img src="https://img.shields.io/badge/02-FEATURED_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" alt="02-FEATURED_PROJECTS"/>
+## <img src="https://img.shields.io/badge/02--FEATURED_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" alt="02-FEATURED_PROJECTS"/>
 
-### <img src="https://img.shields.io/badge/01-ADB--QR-000000?style=for-the-badge&logo=android&logoColor=white" alt="01-ADB--QR"/> [ADB-QR](https://github.com/ilter2014/ADB-QR)
+### <img src="https://img.shields.io/badge/01--ADB----QR-000000?style=for-the-badge&logo=android&logoColor=white" alt="01-ADB--QR"/> [ADB-QR](https://github.com/ilter2014/ADB-QR)
 
 A Windows utility for Android Debug Bridge (ADB) wireless pairing and device workflows.
 
 <a href="https://github.com/ilter2014/ADB-QR"><img src="https://img.shields.io/github/stars/ilter2014/ADB-QR?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=000000" alt="ADB-QR stars"/></a> <a href="https://github.com/ilter2014/ADB-QR/forks"><img src="https://img.shields.io/github/forks/ilter2014/ADB-QR?style=for-the-badge&logo=git&logoColor=white&label=FORKS&color=000000" alt="ADB-QR forks"/></a> <a href="https://github.com/ilter2014/ADB-QR"><img src="https://img.shields.io/github/last-commit/ilter2014/ADB-QR?style=for-the-badge&logo=github&logoColor=white&label=UPDATED&color=000000" alt="ADB-QR last commit"/></a>
 
-### <img src="https://img.shields.io/badge/02-CMDTOOLS-000000?style=for-the-badge&logo=windows&logoColor=white" alt="02-CMDTOOLS"/> [CmdTools](https://github.com/ilter2014/CmdTools)
+### <img src="https://img.shields.io/badge/02--CMDTOOLS-000000?style=for-the-badge&logo=windows&logoColor=white" alt="02-CMDTOOLS"/> [CmdTools](https://github.com/ilter2014/CmdTools)
 
 A collection of command-line tools and utilities.
 
 <a href="https://github.com/ilter2014/CmdTools"><img src="https://img.shields.io/github/stars/ilter2014/CmdTools?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=000000" alt="CmdTools stars"/></a> <a href="https://github.com/ilter2014/CmdTools/forks"><img src="https://img.shields.io/github/forks/ilter2014/CmdTools?style=for-the-badge&logo=git&logoColor=white&label=FORKS&color=000000" alt="CmdTools forks"/></a> <a href="https://github.com/ilter2014/CmdTools"><img src="https://img.shields.io/github/last-commit/ilter2014/CmdTools?style=for-the-badge&logo=github&logoColor=white&label=UPDATED&color=000000" alt="CmdTools last commit"/></a>
 
-### <img src="https://img.shields.io/badge/03-HEADPHONE_ANIMATION-000000?style=for-the-badge&logo=css3&logoColor=white" alt="03-HEADPHONE_ANIMATION"/> [headphone-animation](https://github.com/ilter2014/headphone-animation)
+### <img src="https://img.shields.io/badge/03--HEADPHONE_ANIMATION-000000?style=for-the-badge&logo=css3&logoColor=white" alt="03-HEADPHONE_ANIMATION"/> [headphone-animation](https://github.com/ilter2014/headphone-animation)
 
 A forked animation project.
 
 <a href="https://github.com/ilter2014/headphone-animation"><img src="https://img.shields.io/github/stars/ilter2014/headphone-animation?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=000000" alt="headphone-animation stars"/></a> <a href="https://github.com/ilter2014/headphone-animation/forks"><img src="https://img.shields.io/github/forks/ilter2014/headphone-animation?style=for-the-badge&logo=git&logoColor=white&label=FORKS&color=000000" alt="headphone-animation forks"/></a> <img src="https://img.shields.io/badge/FORKED-000000?style=for-the-badge&logo=git&logoColor=white" alt="FORKED"/>
 
-### <img src="https://img.shields.io/badge/04-INSTAGRAM_FLUTTER_CLONE-000000?style=for-the-badge&logo=flutter&logoColor=white" alt="04-INSTAGRAM_FLUTTER_CLONE"/> [instagram-flutter-clone](https://github.com/ilter2014/instagram-flutter-clone)
+### <img src="https://img.shields.io/badge/04--INSTAGRAM_FLUTTER_CLONE-000000?style=for-the-badge&logo=flutter&logoColor=white" alt="04-INSTAGRAM_FLUTTER_CLONE"/> [instagram-flutter-clone](https://github.com/ilter2014/instagram-flutter-clone)
 
 A Flutter clone project inspired by Instagram. This is a forked repository.
 
@@ -51,7 +51,7 @@ A Flutter clone project inspired by Instagram. This is a forked repository.
 
 ---
 
-## <img src="https://img.shields.io/badge/03-TECH_STACK-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="03-TECH_STACK"/>
+## <img src="https://img.shields.io/badge/03--TECH_STACK-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="03-TECH_STACK"/>
 
 ### Programming & Markup Languages
 
@@ -127,20 +127,20 @@ A Flutter clone project inspired by Instagram. This is a forked repository.
 <img src="https://img.shields.io/badge/Velocity_Proxy_Configuration-333333?style=for-the-badge&logo=minecraft&logoColor=white" alt="Velocity Proxy Configuration"/>
 <img src="https://img.shields.io/badge/Java_Runtime_Management-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Runtime Management"/>
 <img src="https://img.shields.io/badge/Windows_Server_Hosting-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server Hosting"/>
-<img src="https://img.shields.io/badge/Multi-Server_Network_Administration-333333?style=for-the-badge&logo=minecraft&logoColor=white" alt="Multi-Server Network Administration"/>
+<img src="https://img.shields.io/badge/Multi--Server_Network_Administration-333333?style=for-the-badge&logo=minecraft&logoColor=white" alt="Multi-Server Network Administration"/>
 </p>
 
 ### Custom Projects & Technologies
 
 <p>
-<img src="https://img.shields.io/badge/ECPS_-_Custom_Programming_Language-111111?style=for-the-badge&logo=github&logoColor=white" alt="ECPS - Custom Programming Language"/>
-<img src="https://img.shields.io/badge/NOVA_Engine_-_Game_Engine-111111?style=for-the-badge&logo=github&logoColor=white" alt="NOVA Engine - Game Engine"/>
-<img src="https://img.shields.io/badge/ADB-QR_-_Windows_ADB_Utility-111111?style=for-the-badge&logo=android&logoColor=000000" alt="ADB-QR - Windows ADB Utility"/>
+<img src="https://img.shields.io/badge/ECPS_--_Custom_Programming_Language-111111?style=for-the-badge&logo=github&logoColor=white" alt="ECPS - Custom Programming Language"/>
+<img src="https://img.shields.io/badge/NOVA_Engine_--_Game_Engine-111111?style=for-the-badge&logo=github&logoColor=white" alt="NOVA Engine - Game Engine"/>
+<img src="https://img.shields.io/badge/ADB--QR_--_Windows_ADB_Utility-111111?style=for-the-badge&logo=android&logoColor=000000" alt="ADB-QR - Windows ADB Utility"/>
 </p>
 
 ---
 
-## <img src="https://img.shields.io/badge/04-GITHUB_STATS-000000?style=for-the-badge&logo=github&logoColor=white" alt="04-GITHUB_STATS"/>
+## <img src="https://img.shields.io/badge/04--GITHUB_STATS-000000?style=for-the-badge&logo=github&logoColor=white" alt="04-GITHUB_STATS"/>
 
 <div align="center">
 
@@ -155,13 +155,13 @@ A Flutter clone project inspired by Instagram. This is a forked repository.
 
 ---
 
-## <img src="https://img.shields.io/badge/05-CONNECT-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="05-CONNECT"/>
+## <img src="https://img.shields.io/badge/05--CONNECT-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="05-CONNECT"/>
 
 <div align="center">
 
-<a href="https://github.com/ilter2014"><img src="https://img.shields.io/badge/GitHub-%40ilter2014-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-@ilter2014"/></a>
-<a href="https://www.instagram.com/ilter123312/"><img src="https://img.shields.io/badge/Instagram-%40ilter123312-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-@ilter123312"/></a>
-<a href="https://datadev.com.tr"><img src="https://img.shields.io/badge/Website-datadev.com.tr-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website-datadev.com.tr"/></a>
+<a href="https://github.com/ilter2014"><img src="https://img.shields.io/badge/GitHub--%40ilter2014-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-@ilter2014"/></a>
+<a href="https://www.instagram.com/ilter123312/"><img src="https://img.shields.io/badge/Instagram--%40ilter123312-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-@ilter123312"/></a>
+<a href="https://datadev.com.tr"><img src="https://img.shields.io/badge/Website--datadev.com.tr-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website-datadev.com.tr"/></a>
 
 </div>
 
