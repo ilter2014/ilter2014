@@ -88,13 +88,57 @@ Instagram'dan ilham alan Flutter klon projesi. Fork edilmiş repodur.
 
 ## <img src="https://img.shields.io/badge/03-TECH_STACK-000000?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Tech Stack"/>
 
-<div align="center">
+### Programming & Markup Languages
 
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,py,react,flutter,dart,supabase,nodejs,npm,git,github,vscode,vercel,windows,powershell,figma,miro&theme=dark&perline=8)](https://skillicons.dev)
+<div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,dart,sql&theme=dark&perline=8" alt="Programming and markup languages"/>
+</div>
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+### Frameworks & Mobile Development
 
+<div>
+<img src="https://skillicons.dev/icons?i=react,flutter&theme=dark&perline=8" alt="Frameworks"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+</div>
+
+### Operating Systems
+
+<div>
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme=dark&perline=8" alt="Operating systems"/>
+<img src="https://img.shields.io/badge/Zorin_OS-15A6D6?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin OS"/>
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
+</div>
+
+### Backend, Databases & Hosting
+
+<div>
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,vercel&theme=dark&perline=8" alt="Backend databases and hosting"/>
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel"/>
+<img src="https://img.shields.io/badge/VDS-333333?style=for-the-badge&logo=serverfault&logoColor=white" alt="VDS"/>
+</div>
+
+### Development Tools & Platforms
+
+<div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,powershell,figma,miro&theme=dark&perline=8" alt="Development tools"/>
+<img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Debug Bridge"/>
+<img src="https://img.shields.io/badge/EAS-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Application Services"/>
+</div>
+
+### Video & Media Tools
+
+<div>
+<img src="https://skillicons.dev/icons?i= ffmpeg&theme=dark" alt="FFmpeg"/>
+<img src="https://img.shields.io/badge/Remotion-000000?style=for-the-badge&logo=react&logoColor=white" alt="Remotion"/>
+</div>
+
+### Custom Projects & Technologies
+
+<div>
+<img src="https://img.shields.io/badge/ECPS-Custom_Language-111111?style=for-the-badge&logo=code&logoColor=white" alt="ECPS"/>
+<img src="https://img.shields.io/badge/NOVA_Engine-Game_Engine-111111?style=for-the-badge&logo=unity&logoColor=white" alt="NOVA Engine"/>
+<img src="https://img.shields.io/badge/Minecraft-Paper_%2F_Velocity-111111?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft server ecosystem"/>
 </div>
 
 ---
