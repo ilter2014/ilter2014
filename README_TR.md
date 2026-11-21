@@ -2,11 +2,11 @@
 
 <a href="README.md"><img src="https://img.shields.io/badge/ENGLISH-222222?style=for-the-badge&logo=github&logoColor=white" alt="ENGLISH"/></a> <a href="README_TR.md"><img src="https://img.shields.io/badge/T%C3%9CRK%C3%87E-222222?style=for-the-badge&logo=github&logoColor=white" alt="TÜRKÇE"/></a>
 
-<img src="https://img.shields.io/badge/ILTER--DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=white" alt="ILTER-DEVELOPER"/>
+<img src="https://img.shields.io/badge/ILTER--GELISTIRICI-000000?style=for-the-badge&logo=github&logoColor=white" alt="ILTER-GELISTIRICI"/>
 
 # İlter | Geliştirici
 
-<img src="https://img.shields.io/badge/OPEN_SOURCE-000000?style=for-the-badge&logo=github&logoColor=white" alt="OPEN_SOURCE"/> <img src="https://img.shields.io/badge/PROJELER_GEL%C4%B0%C5%9ET%C4%B0R%C4%B0YORUM-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="PROJELER_GELİŞTİRİYORUM"/>
+<img src="https://img.shields.io/badge/ACIK_KAYNAK-000000?style=for-the-badge&logo=github&logoColor=white" alt="ACIK_KAYNAK"/> <img src="https://img.shields.io/badge/PROJELER_GEL%C4%B0%C5%9ET%C4%B0R%C4%B0YORUM-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="PROJELER_GELİŞTİRİYORUM"/>
 
 Fikirleri yazılıma dönüştürmeyi seven bir geliştiriciyim. Yeni teknolojiler keşfetmeyi, kullanışlı araçlar üretmeyi ve kendi projelerimi geliştirmeyi seviyorum.
 
@@ -18,9 +18,9 @@ Fikirleri yazılıma dönüştürmeyi seven bir geliştiriciyim. Yeni teknolojil
 
 ## <img src="https://img.shields.io/badge/01--HAKKIMDA-000000?style=for-the-badge&logo=readme&logoColor=white" alt="01-HAKKIMDA"/>
 
-- <img src="https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=white" alt="DEVELOPER"/> Yazılım geliştirmeyi ve üreterek öğrenmeyi seviyorum.
-- <img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=codefactor&logoColor=white" alt="PROJECTS"/> Masaüstü, web, mobil ve sunucu ortamlarında projeler geliştiriyorum.
-- <img src="https://img.shields.io/badge/OPEN_SOURCE-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OPEN_SOURCE"/> Açık kaynak yazılımları keşfediyor ve kendi araçlarımı geliştiriyorum.
+- <img src="https://img.shields.io/badge/GELISTIRICI-000000?style=for-the-badge&logo=github&logoColor=white" alt="GELISTIRICI"/> Yazılım geliştirmeyi ve üreterek öğrenmeyi seviyorum.
+- <img src="https://img.shields.io/badge/PROJELER-000000?style=for-the-badge&logo=codefactor&logoColor=white" alt="PROJELER"/> Masaüstü, web, mobil ve sunucu ortamlarında projeler geliştiriyorum.
+- <img src="https://img.shields.io/badge/ACIK_KAYNAK-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="ACIK_KAYNAK"/> Açık kaynak yazılımları keşfediyor ve kendi araçlarımı geliştiriyorum.
 - <img src="https://img.shields.io/badge/DATADEV-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DATADEV"/> DataDev adı altında projeler üretiyorum.
 
 ## <img src="https://img.shields.io/badge/02--%C3%96NE_%C3%87IKAN_PROJELER-000000?style=for-the-badge&logo=github&logoColor=white" alt="02-ÖNE_ÇIKAN_PROJELER"/>
@@ -126,7 +126,7 @@ Instagram'dan ilham alan Flutter klon projesi. Fork edilmiş bir depodur.
 <img src="https://img.shields.io/badge/PaperMC_Sunucu_Kurulumu-333333?style=for-the-badge&logo=minecraft&logoColor=white" alt="PaperMC Sunucu Kurulumu"/>
 <img src="https://img.shields.io/badge/Velocity_Proxy_Yap%C4%B1land%C4%B1rmas%C4%B1-333333?style=for-the-badge&logo=minecraft&logoColor=white" alt="Velocity Proxy Yapılandırması"/>
 <img src="https://img.shields.io/badge/Java_Runtime_Y%C3%B6netimi-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Runtime Yönetimi"/>
-<img src="https://img.shields.io/badge/Windows_Server_Hosting-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server Hosting"/>
+<img src="https://img.shields.io/badge/Windows_Server_Barindirma-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server Hosting"/>
 <img src="https://img.shields.io/badge/%C3%87oklu_Sunucu_A%C4%9F%C4%B1_Y%C3%B6netimi-333333?style=for-the-badge&logo=minecraft&logoColor=white" alt="Çoklu Sunucu Ağı Yönetimi"/>
 </p>
 
@@ -169,9 +169,9 @@ Instagram'dan ilham alan Flutter klon projesi. Fork edilmiş bir depodur.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/BUILD-000000?style=for-the-badge&logo=github&logoColor=white" alt="BUILD"/> <img src="https://img.shields.io/badge/TEST-000000?style=for-the-badge&logo=checkmarx&logoColor=white" alt="TEST"/> <img src="https://img.shields.io/badge/IMPROVE-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="IMPROVE"/>
+<img src="https://img.shields.io/badge/GELISTIR-000000?style=for-the-badge&logo=github&logoColor=white" alt="GELISTIR"/> <img src="https://img.shields.io/badge/DENE-000000?style=for-the-badge&logo=checkmarx&logoColor=white" alt="DENE"/> <img src="https://img.shields.io/badge/IYILESTIR-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="IYILESTIR"/>
 
-### Build. Test. Improve.
+### Geliştir. Dene. İyileştir.
 
 <sub>Profilimi ziyaret ettiğin için teşekkürler.</sub>
 
