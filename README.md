@@ -88,78 +88,92 @@ Instagram'dan ilham alan Flutter klon projesi. Fork edilmiş repodur.
 
 ## <img src="https://img.shields.io/badge/03-TECH_STACK-000000?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Tech Stack"/>
 
+Her teknoloji ayrı satırda: logo solda, adı sağda.
+
 ### Programming & Markup Languages
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-</p>
+| Logo | Technology |
+|:---:|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" alt="HTML5"/> | HTML5 |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" alt="CSS3"/> | CSS3 |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" alt="JavaScript"/> | JavaScript |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" alt="TypeScript"/> | TypeScript |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" alt="Python"/> | Python |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" alt="Java"/> | Java |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="28" alt="Dart"/> | Dart |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" alt="SQL"/> | SQL |
 
 ### Frameworks & Mobile Development
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
-</p>
+| Logo | Technology |
+|:---:|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" alt="React"/> | React |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" alt="React Native"/> | React Native |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="28" alt="Flutter"/> | Flutter |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="28" alt="Expo"/> | Expo |
 
 ### Operating Systems & Server Environments
 
-<p>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-<img src="https://img.shields.io/badge/Zorin_OS-15A6D6?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin OS"/>
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
-<img src="https://img.shields.io/badge/VDS-333333?style=for-the-badge&logo=serverfault&logoColor=white" alt="VDS"/>
-<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel"/>
-</p>
+| Logo | Technology |
+|:---:|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="28" alt="Windows"/> | Windows |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" alt="Linux"/> | Linux |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="28" alt="Ubuntu"/> | Ubuntu |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="28" alt="Debian"/> | Debian |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" alt="Zorin OS"/> | Zorin OS |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="28" alt="Windows Server"/> | Windows Server |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" alt="VDS"/> | VDS administration |
+| <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="28" alt="cPanel"/> | cPanel |
 
 ### Backend, Databases & Hosting
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
+| Logo | Technology |
+|:---:|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" alt="Node.js"/> | Node.js |
+| <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="28" alt="Supabase"/> | Supabase |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" alt="PostgreSQL"/> | PostgreSQL |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="28" alt="Vercel"/> | Vercel |
 
 ### Development Tools & Platforms
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050036" alt="Miro"/>
-<img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Debug Bridge"/>
-<img src="https://img.shields.io/badge/EAS-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Application Services"/>
-</p>
+| Logo | Technology |
+|:---:|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" alt="Git"/> | Git |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" alt="GitHub"/> | GitHub |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" alt="VS Code"/> | Visual Studio Code |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="28" alt="npm"/> | npm |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="28" alt="PowerShell"/> | PowerShell |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="28" alt="Figma"/> | Figma |
+| <img src="https://cdn.simpleicons.org/miro/FFD02F" width="28" alt="Miro"/> | Miro |
+| <img src="https://cdn.simpleicons.org/android/3DDC84" width="28" alt="ADB"/> | Android Debug Bridge (ADB) |
+| <img src="https://cdn.simpleicons.org/expo/000020" width="28" alt="EAS"/> | Expo Application Services (EAS) |
 
 ### Video & Media Tools
 
-<p>
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
-<img src="https://img.shields.io/badge/Remotion-000000?style=for-the-badge&logo=remotion&logoColor=white" alt="Remotion"/>
-</p>
+| Logo | Technology |
+|:---:|---|
+| <img src="https://cdn.simpleicons.org/ffmpeg/007808" width="28" alt="FFmpeg"/> | FFmpeg |
+| <img src="https://cdn.simpleicons.org/remotion/000000" width="28" alt="Remotion"/> | Remotion |
+
+### Minecraft Server Technologies & Administration
+
+| Logo | Technology / Skill |
+|:---:|---|
+| <img src="https://cdn.simpleicons.org/minecraft/62B47A" width="28" alt="Minecraft"/> | Minecraft Java Edition server administration |
+| <img src="https://cdn.simpleicons.org/papermc/FFFFFF" width="28" alt="PaperMC"/> | Paper server setup and configuration |
+| <img src="https://cdn.simpleicons.org/velocity/FFFFFF" width="28" alt="Velocity"/> | Velocity proxy setup and configuration |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" alt="Java"/> | Java runtime and version management |
+| <img src="https://cdn.simpleicons.org/windows/0078D6" width="28" alt="Windows Server"/> | Windows Server-based game hosting |
+| <img src="https://cdn.simpleicons.org/serverfault/FFFFFF" width="28" alt="Server"/> | Multi-server network configuration |
+| <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="28" alt="Console"/> | Server console and operations |
 
 ### Custom Projects & Technologies
 
-<p>
-<img src="https://img.shields.io/badge/ECPS-Custom_Language-111111?style=for-the-badge&logo=code&logoColor=white" alt="ECPS"/>
-<img src="https://img.shields.io/badge/NOVA_Engine-Game_Engine-111111?style=for-the-badge&logo=unity&logoColor=white" alt="NOVA Engine"/>
-<img src="https://img.shields.io/badge/Minecraft-Paper_%2F_Velocity-111111?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Paper and Velocity"/>
-</p>
+| Logo | Technology |
+|:---:|---|
+| <img src="https://cdn.simpleicons.org/code/FFFFFF" width="28" alt="ECPS"/> | ECPS — custom programming language |
+| <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="28" alt="NOVA Engine"/> | NOVA Engine — custom game engine |
+| <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" alt="Custom projects"/> | ADB-QR and other developer tools |
 
 ---
 
