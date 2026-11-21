@@ -88,31 +88,89 @@ Instagram'dan ilham alan Flutter klon projesi. Fork edilmiş repodur.
 
 ## <img src="https://img.shields.io/badge/03-TECH_STACK-000000?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Tech Stack"/>
 
-<div align="center">
+### Programming & Markup Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,dart&theme=dark&perline=7" alt="Programming languages"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,flutter,nodejs,supabase,postgres&theme=dark&perline=5" alt="Frameworks and backend"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,vercel&theme=dark&perline=6" alt="Development tools"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme=dark&perline=4" alt="Operating systems"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" alt="HTML5"/> &nbsp; HTML5<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" alt="CSS3"/> &nbsp; CSS3<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" alt="JavaScript"/> &nbsp; JavaScript<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" alt="TypeScript"/> &nbsp; TypeScript<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" alt="Python"/> &nbsp; Python<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" alt="Java"/> &nbsp; Java<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="24" alt="Dart"/> &nbsp; Dart<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" alt="SQL"/> &nbsp; SQL
+</p>
 
-</div>
+### Frameworks & Mobile Development
 
-### Minecraft Server Administration
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" alt="React"/> &nbsp; React<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" alt="React Native"/> &nbsp; React Native<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="24" alt="Flutter"/> &nbsp; Flutter<br/>
+  <img src="https://cdn.simpleicons.org/expo/000000" width="24" alt="Expo"/> &nbsp; Expo
+</p>
 
-<div align="center">
+### Backend, Databases & Hosting
 
-<img src="https://img.shields.io/badge/Minecraft_Java-3C8527?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Java"/>
-<img src="https://img.shields.io/badge/PaperMC-333333?style=for-the-badge&logo=papermc&logoColor=white" alt="PaperMC"/>
-<img src="https://img.shields.io/badge/Velocity-333333?style=for-the-badge&logo=serverfault&logoColor=white" alt="Velocity"/>
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" alt="Node.js"/> &nbsp; Node.js<br/>
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="24" alt="Supabase"/> &nbsp; Supabase<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" alt="PostgreSQL"/> &nbsp; PostgreSQL<br/>
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="24" alt="Vercel"/> &nbsp; Vercel
+</p>
 
-</div>
+### Operating Systems & Server Environments
 
-Paper sunucu kurulumu ve yapılandırması, Velocity proxy yönetimi, çoklu sunucu ağı, Java sürüm yönetimi ve Windows Server üzerinde Minecraft sunucusu barındırma.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="24" alt="Windows"/> &nbsp; Windows<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" alt="Linux"/> &nbsp; Linux<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="24" alt="Ubuntu"/> &nbsp; Ubuntu<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="24" alt="Debian"/> &nbsp; Debian<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" alt="Zorin OS"/> &nbsp; Zorin OS<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="24" alt="Windows Server"/> &nbsp; Windows Server<br/>
+  <img src="https://cdn.simpleicons.org/serverfault/555555" width="24" alt="VDS"/> &nbsp; VDS administration<br/>
+  <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="24" alt="cPanel"/> &nbsp; cPanel
+</p>
+
+### Development Tools & Platforms
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" alt="Git"/> &nbsp; Git<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" alt="GitHub"/> &nbsp; GitHub<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" alt="Visual Studio Code"/> &nbsp; Visual Studio Code<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="24" alt="npm"/> &nbsp; npm<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="24" alt="PowerShell"/> &nbsp; PowerShell<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24" alt="Figma"/> &nbsp; Figma<br/>
+  <img src="https://cdn.simpleicons.org/miro/FFD02F" width="24" alt="Miro"/> &nbsp; Miro<br/>
+  <img src="https://cdn.simpleicons.org/android/3DDC84" width="24" alt="Android Debug Bridge"/> &nbsp; Android Debug Bridge (ADB)<br/>
+  <img src="https://cdn.simpleicons.org/expo/000000" width="24" alt="Expo Application Services"/> &nbsp; Expo Application Services (EAS)
+</p>
+
+### Video & Media Tools
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/ffmpeg/007808" width="24" alt="FFmpeg"/> &nbsp; FFmpeg<br/>
+  <img src="https://cdn.simpleicons.org/remotion/000000" width="24" alt="Remotion"/> &nbsp; Remotion
+</p>
+
+### Minecraft Server Technologies & Administration
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/minecraft/62B47A" width="24" alt="Minecraft"/> &nbsp; Minecraft Java Edition<br/>
+  <img src="https://cdn.simpleicons.org/papermc/888888" width="24" alt="PaperMC"/> &nbsp; Paper server setup and configuration<br/>
+  <img src="https://cdn.simpleicons.org/velocity/555555" width="24" alt="Velocity"/> &nbsp; Velocity proxy setup and configuration<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" alt="Java"/> &nbsp; Java runtime and version management<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="24" alt="Windows Server"/> &nbsp; Windows Server game hosting<br/>
+  <img src="https://cdn.simpleicons.org/serverfault/555555" width="24" alt="Server"/> &nbsp; Multi-server network configuration
+</p>
+
+### Custom Projects & Technologies
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/code/555555" width="24" alt="ECPS"/> &nbsp; ECPS — custom programming language<br/>
+  <img src="https://cdn.simpleicons.org/unity/555555" width="24" alt="NOVA Engine"/> &nbsp; NOVA Engine — custom game engine<br/>
+  <img src="https://cdn.simpleicons.org/android/3DDC84" width="24" alt="ADB-QR"/> &nbsp; ADB-QR — Windows ADB utility
+</p>
 
 ---
 
