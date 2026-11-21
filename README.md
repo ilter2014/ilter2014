@@ -132,8 +132,6 @@ A Flutter clone project inspired by Instagram. This is a forked repository.
 
 ### Custom Projects & Technologies
 
-<p>
-<img src="https://img.shields.io/badge/ECPS_--_Custom_Programming_Language-111111?style=for-the-badge&logo=github&logoColor=white" alt="ECPS - Custom Programming Language"/>
 <img src="https://img.shields.io/badge/NOVA_Engine_--_Game_Engine-111111?style=for-the-badge&logo=github&logoColor=white" alt="NOVA Engine - Game Engine"/>
 <img src="https://img.shields.io/badge/ADB--QR_--_Windows_ADB_Utility-111111?style=for-the-badge&logo=android&logoColor=000000" alt="ADB-QR - Windows ADB Utility"/>
 </p>
