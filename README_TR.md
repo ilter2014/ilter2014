@@ -6,7 +6,7 @@
 
 # İlter | Geliştirici
 
-<img src="https://img.shields.io/badge/ACIK_KAYNAK-000000?style=for-the-badge&logo=github&logoColor=white" alt="ACIK_KAYNAK"/> <img src="https://img.shields.io/badge/PROJELER_GEL%C4%B0%C5%9ET%C4%B0R%C4%B0YORUM-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="PROJELER_GELİŞTİRİYORUM"/>
+<img src="https://img.shields.io/badge/PROJELER_GEL%C4%B0%C5%9ET%C4%B0R%C4%B0YORUM-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="PROJELER_GELİŞTİRİYORUM"/>
 
 Fikirleri yazılıma dönüştürmeyi seven bir geliştiriciyim. Yeni teknolojiler keşfetmeyi, kullanışlı araçlar üretmeyi ve kendi projelerimi geliştirmeyi seviyorum.
 
@@ -20,7 +20,6 @@ Fikirleri yazılıma dönüştürmeyi seven bir geliştiriciyim. Yeni teknolojil
 
 - <img src="https://img.shields.io/badge/GELISTIRICI-000000?style=for-the-badge&logo=github&logoColor=white" alt="GELISTIRICI"/> Yazılım geliştirmeyi ve üreterek öğrenmeyi seviyorum.
 - <img src="https://img.shields.io/badge/PROJELER-000000?style=for-the-badge&logo=codefactor&logoColor=white" alt="PROJELER"/> Masaüstü, web, mobil ve sunucu ortamlarında projeler geliştiriyorum.
-- <img src="https://img.shields.io/badge/ACIK_KAYNAK-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="ACIK_KAYNAK"/> Açık kaynak yazılımları keşfediyor ve kendi araçlarımı geliştiriyorum.
 - <img src="https://img.shields.io/badge/DATADEV-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DATADEV"/> DataDev adı altında projeler üretiyorum.
 
 ## <img src="https://img.shields.io/badge/02--%C3%96NE_%C3%87IKAN_PROJELER-000000?style=for-the-badge&logo=github&logoColor=white" alt="02-ÖNE_ÇIKAN_PROJELER"/>
