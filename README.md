@@ -6,7 +6,7 @@
 
 # Ilter | Developer
 
-<img src="https://img.shields.io/badge/OPEN_SOURCE-000000?style=for-the-badge&logo=github&logoColor=white" alt="OPEN_SOURCE"/> <img src="https://img.shields.io/badge/BUILDING_PROJECTS-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="BUILDING_PROJECTS"/>
+<img src="https://img.shields.io/badge/BUILDING_PROJECTS-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="BUILDING_PROJECTS"/>
 
 I’m a developer who enjoys turning ideas into software. I like exploring technologies, building useful tools, and developing my own projects.
 
@@ -20,7 +20,6 @@ I’m a developer who enjoys turning ideas into software. I like exploring techn
 
 - <img src="https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=white" alt="DEVELOPER"/> I enjoy software development and learning by building.
 - <img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=codefactor&logoColor=white" alt="PROJECTS"/> I work on projects across desktop, web, mobile, and server environments.
-- <img src="https://img.shields.io/badge/OPEN_SOURCE-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OPEN_SOURCE"/> I explore open-source software and contribute to my own tools.
 - <img src="https://img.shields.io/badge/DATADEV-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DATADEV"/> I build projects under the DataDev name.
 
 ## <img src="https://img.shields.io/badge/02--FEATURED_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" alt="02-FEATURED_PROJECTS"/>
