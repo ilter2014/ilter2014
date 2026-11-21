@@ -2,7 +2,7 @@
 
 <a href="README.md"><img src="https://img.shields.io/badge/ENGLISH-222222?style=for-the-badge&logo=github&logoColor=white" alt="ENGLISH"/></a> <a href="README_TR.md"><img src="https://img.shields.io/badge/T%C3%9CRK%C3%87E-222222?style=for-the-badge&logo=github&logoColor=white" alt="TÜRKÇE"/></a>
 
-<img src="https://img.shields.io/badge/ILTER-DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=white" alt="ILTER-DEVELOPER"/>
+<img src="https://img.shields.io/badge/ILTER--DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=white" alt="ILTER-DEVELOPER"/>
 
 # İlter | Geliştirici
 
@@ -16,34 +16,34 @@ Fikirleri yazılıma dönüştürmeyi seven bir geliştiriciyim. Yeni teknolojil
 
 ---
 
-## <img src="https://img.shields.io/badge/01-HAKKIMDA-000000?style=for-the-badge&logo=readme&logoColor=white" alt="01-HAKKIMDA"/>
+## <img src="https://img.shields.io/badge/01--HAKKIMDA-000000?style=for-the-badge&logo=readme&logoColor=white" alt="01-HAKKIMDA"/>
 
 - <img src="https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=white" alt="DEVELOPER"/> Yazılım geliştirmeyi ve üreterek öğrenmeyi seviyorum.
 - <img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=codefactor&logoColor=white" alt="PROJECTS"/> Masaüstü, web, mobil ve sunucu ortamlarında projeler geliştiriyorum.
 - <img src="https://img.shields.io/badge/OPEN_SOURCE-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OPEN_SOURCE"/> Açık kaynak yazılımları keşfediyor ve kendi araçlarımı geliştiriyorum.
 - <img src="https://img.shields.io/badge/DATADEV-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DATADEV"/> DataDev adı altında projeler üretiyorum.
 
-## <img src="https://img.shields.io/badge/02-%C3%96NE_%C3%87IKAN_PROJELER-000000?style=for-the-badge&logo=github&logoColor=white" alt="02-ÖNE_ÇIKAN_PROJELER"/>
+## <img src="https://img.shields.io/badge/02--%C3%96NE_%C3%87IKAN_PROJELER-000000?style=for-the-badge&logo=github&logoColor=white" alt="02-ÖNE_ÇIKAN_PROJELER"/>
 
-### <img src="https://img.shields.io/badge/01-ADB--QR-000000?style=for-the-badge&logo=android&logoColor=white" alt="01-ADB--QR"/> [ADB-QR](https://github.com/ilter2014/ADB-QR)
+### <img src="https://img.shields.io/badge/01--ADB----QR-000000?style=for-the-badge&logo=android&logoColor=white" alt="01-ADB--QR"/> [ADB-QR](https://github.com/ilter2014/ADB-QR)
 
 Android Debug Bridge (ADB) kablosuz eşleştirme ve cihaz iş akışları için Windows aracı.
 
 <a href="https://github.com/ilter2014/ADB-QR"><img src="https://img.shields.io/github/stars/ilter2014/ADB-QR?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=000000" alt="ADB-QR stars"/></a> <a href="https://github.com/ilter2014/ADB-QR/forks"><img src="https://img.shields.io/github/forks/ilter2014/ADB-QR?style=for-the-badge&logo=git&logoColor=white&label=FORKS&color=000000" alt="ADB-QR forks"/></a> <a href="https://github.com/ilter2014/ADB-QR"><img src="https://img.shields.io/github/last-commit/ilter2014/ADB-QR?style=for-the-badge&logo=github&logoColor=white&label=UPDATED&color=000000" alt="ADB-QR last commit"/></a>
 
-### <img src="https://img.shields.io/badge/02-CMDTOOLS-000000?style=for-the-badge&logo=windows&logoColor=white" alt="02-CMDTOOLS"/> [CmdTools](https://github.com/ilter2014/CmdTools)
+### <img src="https://img.shields.io/badge/02--CMDTOOLS-000000?style=for-the-badge&logo=windows&logoColor=white" alt="02-CMDTOOLS"/> [CmdTools](https://github.com/ilter2014/CmdTools)
 
 Komut satırı araçları ve yardımcı programlar koleksiyonu.
 
 <a href="https://github.com/ilter2014/CmdTools"><img src="https://img.shields.io/github/stars/ilter2014/CmdTools?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=000000" alt="CmdTools stars"/></a> <a href="https://github.com/ilter2014/CmdTools/forks"><img src="https://img.shields.io/github/forks/ilter2014/CmdTools?style=for-the-badge&logo=git&logoColor=white&label=FORKS&color=000000" alt="CmdTools forks"/></a> <a href="https://github.com/ilter2014/CmdTools"><img src="https://img.shields.io/github/last-commit/ilter2014/CmdTools?style=for-the-badge&logo=github&logoColor=white&label=UPDATED&color=000000" alt="CmdTools last commit"/></a>
 
-### <img src="https://img.shields.io/badge/03-HEADPHONE_ANIMATION-000000?style=for-the-badge&logo=css3&logoColor=white" alt="03-HEADPHONE_ANIMATION"/> [headphone-animation](https://github.com/ilter2014/headphone-animation)
+### <img src="https://img.shields.io/badge/03--HEADPHONE_ANIMATION-000000?style=for-the-badge&logo=css3&logoColor=white" alt="03-HEADPHONE_ANIMATION"/> [headphone-animation](https://github.com/ilter2014/headphone-animation)
 
 Fork edilmiş animasyon projesi.
 
 <a href="https://github.com/ilter2014/headphone-animation"><img src="https://img.shields.io/github/stars/ilter2014/headphone-animation?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=000000" alt="headphone-animation stars"/></a> <a href="https://github.com/ilter2014/headphone-animation/forks"><img src="https://img.shields.io/github/forks/ilter2014/headphone-animation?style=for-the-badge&logo=git&logoColor=white&label=FORKS&color=000000" alt="headphone-animation forks"/></a> <img src="https://img.shields.io/badge/FORKED-000000?style=for-the-badge&logo=git&logoColor=white" alt="FORKED"/>
 
-### <img src="https://img.shields.io/badge/04-INSTAGRAM_FLUTTER_CLONE-000000?style=for-the-badge&logo=flutter&logoColor=white" alt="04-INSTAGRAM_FLUTTER_CLONE"/> [instagram-flutter-clone](https://github.com/ilter2014/instagram-flutter-clone)
+### <img src="https://img.shields.io/badge/04--INSTAGRAM_FLUTTER_CLONE-000000?style=for-the-badge&logo=flutter&logoColor=white" alt="04-INSTAGRAM_FLUTTER_CLONE"/> [instagram-flutter-clone](https://github.com/ilter2014/instagram-flutter-clone)
 
 Instagram'dan ilham alan Flutter klon projesi. Fork edilmiş bir depodur.
 
@@ -51,7 +51,7 @@ Instagram'dan ilham alan Flutter klon projesi. Fork edilmiş bir depodur.
 
 ---
 
-## <img src="https://img.shields.io/badge/03-TEKNOLOJ%C4%B0LER-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="03-TEKNOLOJİLER"/>
+## <img src="https://img.shields.io/badge/03--TEKNOLOJ%C4%B0LER-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="03-TEKNOLOJİLER"/>
 
 ### Programlama ve İşaretleme Dilleri
 
@@ -133,14 +133,14 @@ Instagram'dan ilham alan Flutter klon projesi. Fork edilmiş bir depodur.
 ### Özel Projeler ve Teknolojiler
 
 <p>
-<img src="https://img.shields.io/badge/ECPS_-_%C3%96zel_Programlama_Dili-111111?style=for-the-badge&logo=github&logoColor=white" alt="ECPS - Özel Programlama Dili"/>
-<img src="https://img.shields.io/badge/NOVA_Engine_-_Oyun_Motoru-111111?style=for-the-badge&logo=github&logoColor=white" alt="NOVA Engine - Oyun Motoru"/>
-<img src="https://img.shields.io/badge/ADB-QR_-_Windows_ADB_Arac%C4%B1-111111?style=for-the-badge&logo=android&logoColor=000000" alt="ADB-QR - Windows ADB Aracı"/>
+<img src="https://img.shields.io/badge/ECPS_--_%C3%96zel_Programlama_Dili-111111?style=for-the-badge&logo=github&logoColor=white" alt="ECPS - Özel Programlama Dili"/>
+<img src="https://img.shields.io/badge/NOVA_Engine_--_Oyun_Motoru-111111?style=for-the-badge&logo=github&logoColor=white" alt="NOVA Engine - Oyun Motoru"/>
+<img src="https://img.shields.io/badge/ADB--QR_--_Windows_ADB_Arac%C4%B1-111111?style=for-the-badge&logo=android&logoColor=000000" alt="ADB-QR - Windows ADB Aracı"/>
 </p>
 
 ---
 
-## <img src="https://img.shields.io/badge/04-GITHUB_%C4%B0STAT%C4%B0ST%C4%B0KLER%C4%B0-000000?style=for-the-badge&logo=github&logoColor=white" alt="04-GITHUB_İSTATİSTİKLERİ"/>
+## <img src="https://img.shields.io/badge/04--GITHUB_%C4%B0STAT%C4%B0ST%C4%B0KLER%C4%B0-000000?style=for-the-badge&logo=github&logoColor=white" alt="04-GITHUB_İSTATİSTİKLERİ"/>
 
 <div align="center">
 
@@ -155,13 +155,13 @@ Instagram'dan ilham alan Flutter klon projesi. Fork edilmiş bir depodur.
 
 ---
 
-## <img src="https://img.shields.io/badge/05-%C4%B0LET%C4%B0%C5%9E%C4%B0M-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="05-İLETİŞİM"/>
+## <img src="https://img.shields.io/badge/05--%C4%B0LET%C4%B0%C5%9E%C4%B0M-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="05-İLETİŞİM"/>
 
 <div align="center">
 
-<a href="https://github.com/ilter2014"><img src="https://img.shields.io/badge/GitHub-%40ilter2014-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-@ilter2014"/></a>
-<a href="https://www.instagram.com/ilter123312/"><img src="https://img.shields.io/badge/Instagram-%40ilter123312-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-@ilter123312"/></a>
-<a href="https://datadev.com.tr"><img src="https://img.shields.io/badge/Website-datadev.com.tr-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website-datadev.com.tr"/></a>
+<a href="https://github.com/ilter2014"><img src="https://img.shields.io/badge/GitHub--%40ilter2014-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-@ilter2014"/></a>
+<a href="https://www.instagram.com/ilter123312/"><img src="https://img.shields.io/badge/Instagram--%40ilter123312-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-@ilter123312"/></a>
+<a href="https://datadev.com.tr"><img src="https://img.shields.io/badge/Website--datadev.com.tr-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website-datadev.com.tr"/></a>
 
 </div>
 
