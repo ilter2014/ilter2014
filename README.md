@@ -90,7 +90,7 @@ Instagram'dan ilham alan Flutter klon projesi. Fork edilmiş repodur.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,flutter,git,github,vscode&theme=light" alt="Technology icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,reactnative,expo,flutter,supabase,git,github,vscode,nodejs,npm,vercel&theme=dark&perline=8" alt="İlter's Tech Stack"/>
 
 </div>
 
