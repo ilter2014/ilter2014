@@ -132,8 +132,6 @@ Instagram'dan ilham alan Flutter klon projesi. Fork edilmiş bir depodur.
 
 ### Özel Projeler ve Teknolojiler
 
-<p>
-<img src="https://img.shields.io/badge/ECPS_--_%C3%96zel_Programlama_Dili-111111?style=for-the-badge&logo=github&logoColor=white" alt="ECPS - Özel Programlama Dili"/>
 <img src="https://img.shields.io/badge/NOVA_Engine_--_Oyun_Motoru-111111?style=for-the-badge&logo=github&logoColor=white" alt="NOVA Engine - Oyun Motoru"/>
 <img src="https://img.shields.io/badge/ADB--QR_--_Windows_ADB_Arac%C4%B1-111111?style=for-the-badge&logo=android&logoColor=000000" alt="ADB-QR - Windows ADB Aracı"/>
 </p>
