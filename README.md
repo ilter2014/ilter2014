@@ -90,11 +90,10 @@ Instagram'dan ilham alan Flutter klon projesi. Fork edilmiş repodur.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,python,react,reactnative,expo,flutter,supabase,nodejs,npm,git,github,vscode,vercel,windows&theme=dark&perline=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,python,react,reactnative,expo,flutter,supabase,nodejs,npm,git,github,vscode,vercel,windows&theme=light&perline=12" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,reactnative,expo,flutter,supabase,nodejs,npm,git,github,vscode,vercel,windows&theme=dark&perline=12" alt="İlter's Tech Stack" />
-</picture>
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,py,react,flutter,dart,supabase,nodejs,npm,git,github,vscode,vercel,windows,powershell,figma,miro&theme=dark&perline=8)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
 
 </div>
 
